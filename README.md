@@ -3,11 +3,12 @@
 Aspiring Java Developer passionate about learning software development and building practical applications.
 
 ## 👨‍💻 About Me
+- 🎓 Completed Bachelor of Computer Applications (BCA)
+- 💼 8 months of experience as a Data Collection Analyst
 - 🎓 MCA graduate
 - ☕ Learning Core Java and Object-Oriented Programming
 - 🗄️ Practicing SQL and database concepts
-- 🚀 Exploring backend development
-- 🎯 Working towards becoming a Java Developer
+- 🚀 Working towards a career in Java Backend Development
 
 ## 🛠️ Technical Skills
 - **Programming:** Java
